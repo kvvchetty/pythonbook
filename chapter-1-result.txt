@@ -30,3 +30,62 @@ The program will output Hello! to the screen
 What are the four fundamental elements that make a language?
 an alphabet, morphology, phonetics, and semantics
 
+-------------------------
+
+from mod import fun
+
+are executed once (implicitly)
+
+dir()
+
+compiled python code
+
+mod.fun()
+
+__pycache__
+
+its performed by the install command accompained by the -U option
+
+the unix or unix-like OS how to execute the contents
+
+locally installed packages (pip list)
+
+the version function from the platform module returns a string with your OS version
+the system function from the platform module retruns a string with your OS name
+
+it allows the user to install a specific version of the packages
+it installs a package per user only when the --user option specified
+
+pip uninstall package
+
+entity c from module b from package a
+
+1
+
+show ( to see the dependencies in pip command)
+
+__name__ ( predefined python variable that stores current module name)
+
+it searches through all PyPI packages
+it it searches through package names only
+
+11,12,21, or 22
+
+will stop the program when var != 0
+
+short for american standard code for information interchange
+
+base exception
+
+must be the last one
+
+indexerror , importerror
+
+like ascii, but much more expansive
+
+some of the instructions from this block may not be executed
+
+a form of encoding unicode code points
+
+
+
